@@ -6,8 +6,8 @@
 // ==========================================================
 
 // ---- Parameters ----
-length      = 26;
-width       = 13.5;
+length      = 25.5;
+width       = 12.8;
 height      = 15;
 wall_margin = 1;
 wall_indent = 1;
